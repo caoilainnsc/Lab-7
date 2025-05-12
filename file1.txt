@@ -1,6 +1,4 @@
 Step 1: created by Caoilainn Christensen on May 11, 2025 at 4:11 PM
-<<<<<<< HEAD
 Step 3: added by Caoilainn on May 12, 2025, 12:53 PM
-=======
-Step 4: line added by Caoilainn on May 12, 2025 at 1:12 PM
->>>>>>> Caoilainn
+Step 4: line added by Caoilainn on May 12 1:16 PM
+Step 4: line added by Caoispam on May 12, 2025 at 1:16 PM
